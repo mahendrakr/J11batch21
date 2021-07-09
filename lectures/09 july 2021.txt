@@ -1,0 +1,29 @@
+GIT introduction
+------------------------
+
+basic commands
+
+----git clone https://github.com/mahendrakr/J11batch21.git (to clone the project into the your system)
+
+----- navigate to folder J11batch21 
+-----cd J11batch21
+----- git pull (to sync up the local and remote reposetories)
+
+# how to push the code from local repo to remote repo
+
+step 1 ------ go to folder "J11batch21"
+step 2 ------ right click and selecct git gui
+step 3 ------ double click on the file icon which are on unstage area
+step 4 ------ write git comments like > my first commit
+step 5 ------ click on commit button > 
+(if your git is not configured then one pop up will come , to resolve it execute below commands from cmd
+
+git config --global user.email "mahendrakumar7028@gmail.com"
+git config --global user.name "mahendrakr")
+
+step 6 ----- click on push button 
+step 7 ----- click on push button
+step 8 ----- it will ask your access token or sing in with browser
+step 9  ----- click on sing in with browser (make sure you're not logged in with git with diff. user)
+step 10 ----- provide your credentials 
+step 11 ----- verify remote git hub and ENJOY 
