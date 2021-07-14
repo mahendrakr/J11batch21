@@ -13,6 +13,6 @@ public static void main(String[] args) {
 	Animal a  = new Animal();
 	System.out.println(a.ears);
 	a.eatFood();
-	System.out.println(a.tail);
+	System.out.println(a.tail);                 
 }
 }

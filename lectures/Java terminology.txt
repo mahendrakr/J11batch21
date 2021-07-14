@@ -1,0 +1,7 @@
+To compile source code use "javac sourcefilename.java"
+to exe. byte code(.class file) java name of .class file without extension
+to inspect default behaviour of compiler "javap .class file name without extension"
+to know what activity compiler is performing while compiling the source file "javac -verbose sourcefile name with extension"
+COMPILER :---
+1 it translate source file (.java) to .class file (byte code)
+ 2 compiler will check any constructor is availble in the class or not , if availble then compiler not going to place default constructor else , it wil place default constructor.
