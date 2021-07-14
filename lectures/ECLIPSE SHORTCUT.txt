@@ -1,0 +1,15 @@
+to rename class name or variable name or method name use
+------ SELECT THE NAME 
+-------PRESS "ALT+SHIFT+R
+
+for system.out.println
+------type SYSO and press ctrl+spacebar
+
+for main method
+------ type main and press ctrl+spacebar
+
+to save all running files at once 
+------ press ctrl+shift+s
+
+to save single file one at a time
+------ctrl+s

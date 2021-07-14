@@ -1,0 +1,39 @@
+Category --- to represent in java wec have to create a class
+Rashmi --- it is an object in java
+Rashmi has two things , property andd behaviour 
+PROPERTY --- to represent in java , use variable
+BEHAVIOUR --- to represent in java , use method
+
+CLASS --- refer = https://javabymahendra.blogspot.com/2019/08/java-basics.html
+
+###how can we create a class in java?
+class  <name>{} 
+ e.g. class Student{}
+         class Employee{}
+         class Animal{} 
+###to test application you need to create a "main method" like below :
+----- public static void main(String[] args) {}
+
+###how to create a variable? 
+>>> <data type> <variable name> < ; >
+>>> e.g. int age ;
+       int phone ;
+###how to create a method in java?
+>>><return type> <method name> <()> <{}>
+e.g. void speak(){}
+        void dance(){}
+        void eat(){}
+>>> to print on the console in java : 
+       System.out.println("any english statement"); 
+### how to create an object in java?
+       Student stu = new Student();
+       Animal a = new Animal();
+      Dog d = new Dog();
+      Cat c = new Cat();
+###how to call a method and a variable?
+       step 1 > 1st create an object 
+        step 2 > with object refrence.name;
+#NOTE :-- CLASS NAME SHOULD BE NOUN AND STARTS WITH CAPITAL LETTER
+                 VARIABLE NAME SHOULD BE NOUN AND START WITH SMALL LETTER
+                 METHOD NAME SHOULD BE VERB AND START WITH SMALL LETTER
+                 YOU HAVE TO CREATE AN OBJECT INSIDE MAIN METHOD(time being)
