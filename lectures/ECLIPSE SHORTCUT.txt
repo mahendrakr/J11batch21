@@ -13,3 +13,7 @@ to save all running files at once
 
 to save single file one at a time
 ------ctrl+s
+ To select all
+ctrl+A
+to format the source file
+ctrl+shift+F

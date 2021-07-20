@@ -1,0 +1,38 @@
+Difference between static variable and non static variable
+
+Static Variable:- If the static keyword is used with a variable than it is called static variable
+eg. static int a;
+Static variable will get memory at class loading time.
+It will initiallize only once throughout its life.
+It will use to represent common things or which objects state never get changed.
+Static variable consumes less memory
+
+Non static:-If the static keyword is not used with a variable than it is called non static variable/Instance variable
+eg. int a;
+It will get memory at object creation time.
+It will initiallize again and again object is created
+It will use to represent the state which keep on changing
+It consumes more memory
+
+Block:-{}
+There are two types of block 
+Static block
+eg. static{}
+It is used to initiallize static variable
+To varify class is loaded or not
+Non static block
+eg. {}
+It is use to initiallize instance variable
+
+Constructor:-
+It is use to initiallize the object
+ Difference between method and constructor
+Constructor name must be the class name
+Constructor doesnot return anything even void
+
+Valid Modifiers for constructor
+
+Method:-
+It is use to perform some business logic.
+Method name might be anything but it is recommended, it should be verb and start with small letter.
+Method must return something or if method doesnot return anything use void.
