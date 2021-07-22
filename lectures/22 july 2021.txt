@@ -1,0 +1,52 @@
+METHOD:-
+There are two types of method
+Static method
+Non static method 
+
+Static method
+you can call static method with class name.
+you can also call static method with the help of object reference but it is not recommended
+e.g static void m1(){}
+
+Non static method/ Instance method
+you must call instance method with the help of object reference
+e.g void m1(){}
+
+Methods based on return type
+1. void m1(){}
+2. int m2(){
+return 10;
+}
+3. long m3(){
+return 20;
+}
+4. float m4(){
+return 40;
+}
+5. char m5(){ 
+return 'c';
+}
+6. double m6(){
+return 200;
+}
+7.boolean m7(){
+return true;
+}
+8. short m8(){
+return 50;
+}
+9. byte m9(){
+return 60;
+}
+10. String m10(){
+return "happy birthday shreya";
+}
+
+BASED ON NUMBER OF ARGUMENTS
+void m1(){}
+void m2(int a){}
+void m3(int a, float b){}
+void m4(String name, int age, long phone){}
+
+
+
