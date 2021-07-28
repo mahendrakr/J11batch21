@@ -1,0 +1,13 @@
+PACKAGE:- It is an abstraction machenism to group related stuff(classes, interfaces and enum) into a module.
+
+BENIFITS
+
+1. To resolve name conflicts.
+2. To improve modularity of the application.
+
+DECLARATION OF PACKAGE STATEMENT
+----------------------------------
+<package> <package name><;>
+e.g package student;
+    package book;
+
