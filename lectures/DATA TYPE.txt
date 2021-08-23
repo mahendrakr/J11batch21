@@ -16,3 +16,4 @@ octal to decimal = multiply by 8
 
 decimal to hexadecimal = divide by base 16
 hexadecimal to decimal =  multiply by 16
+
