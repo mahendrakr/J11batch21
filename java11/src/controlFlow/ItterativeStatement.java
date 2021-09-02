@@ -1,5 +1,5 @@
 package controlFlow;
-//write a Program of factorial
+//write a Program of factorialz
 public class ItterativeStatement {
 	public void printTable(int n) {
 		for(int i = 1;i<=10;i++) {
